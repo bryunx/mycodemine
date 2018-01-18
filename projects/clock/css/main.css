@@ -1,0 +1,21 @@
+body {
+	background-image: url('../img/watch.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+#time {
+	top: 100px;
+	text-align: center;
+	color: red;
+	font-size: 20px;
+	top: 230px;
+	position: relative;
+	font-family: verdana;
+
+}
+@media (max-width: 832px) {
+	.time {
+
+	}
+}
